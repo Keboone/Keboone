@@ -10,7 +10,9 @@ Alternative Rock, EDM or Deep House and everything that will catch your ear. Rec
 especially the art of bonsai, and to de-stress, I fold origami.
 
 You can reach out to me via:
+
 ✉ szymon_papis@wp.pl
+
 ☎ 724 529 986
 
 <!---
