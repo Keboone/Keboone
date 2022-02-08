@@ -1,4 +1,4 @@
-Hi I'm Szymon and this is page dedicated for me 
+Hi I'm Szymon and this is made to bring you closer to my person ;D
 
 Currently my priority is to work in a position that will allow me to develop my knowledge of programming, mainly in Java.
 In addition, I would also like to develop my skills in the broadly understood field of IT, i.e. frontend, backend and computer graphics.
