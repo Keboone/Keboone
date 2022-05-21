@@ -13,7 +13,7 @@ You can reach out to me via:
 
 ✉ szymon_papis@wp.pl
 
-☎ 724 529 986
+<!-- ☎ 724 529 986 -->
 
 <!---
 Keboone/Keboone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
